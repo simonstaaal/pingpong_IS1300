@@ -1,0 +1,3 @@
+../Core/Src/pingpong_functions.c:20:6:led_on	24	static
+../Core/Src/pingpong_functions.c:73:6:show_points	24	static
+../Core/Src/pingpong_functions.c:102:6:one_led_on	16	static
